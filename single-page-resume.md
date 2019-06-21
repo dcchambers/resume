@@ -1,11 +1,11 @@
 ## Dakota Chambers
-dakotachambers@gmail.com | chambers.io | github.com/dcchamnbers
+dakotachambers@gmail.com | chambers.io | github.com/dcchambers
 
 ### Experience
 
-**Systems/DevOps Engineer** - ImageMover
+**Systems/DevOps Engineer** - ImageMoverMD
 
-**DevOps System Administrator** - University of Wisconsin Department of Radiology
+**DevOps Engineer** - University of Wisconsin Department of Radiology
 
 **System Administrator** - Morgridge Institute for Research
 
