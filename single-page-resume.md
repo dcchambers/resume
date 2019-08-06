@@ -3,6 +3,8 @@ dakotachambers@gmail.com | chambers.io | github.com/dcchambers
 
 ### Experience
 
+**Software Engineer** - Engineering Productivity - Zendesk
+
 **Systems/DevOps Engineer** - ImageMoverMD
 
 **DevOps Engineer** - University of Wisconsin Department of Radiology
@@ -17,4 +19,4 @@ dakotachambers@gmail.com | chambers.io | github.com/dcchambers
 
 **B.S. University of Wisconsin - Madison** - 2017
 
-### Miscellaneous
+### Other
